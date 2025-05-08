@@ -31,5 +31,7 @@ Fecha límite de entrega: 23 de mayo de 2025 a las 11:59pm.
 - Registro de depósitos y retiros
 - Validación de fondos suficientes
 
-### 4. Servicio de Transferencias
+### 5. Servicio de Transferencias
 - Listener de transferencias que procesará las transferencias interbancarias añadiendo un impuesto y guardando la transacción en la base de datos de transacciones.
+
+### 5. Cobertura de pruebas igual o superior al 80%
