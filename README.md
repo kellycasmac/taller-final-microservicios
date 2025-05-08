@@ -14,6 +14,7 @@ Fecha límite de entrega: 23 de mayo de 2025 a las 11:59pm.
 - Encriptación de contraseñas
 - Generación de tokens
 - Protección de rutas usando JWT
+- Los usuarios se deben almacenar en una base de datos MongoDB
   
 ### 2. Servicio de Bancos
 - Gestión de Bancos (creación, consulta, modificación)
